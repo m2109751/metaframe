@@ -8,10 +8,10 @@
 
 # Photos of printed elements:
 
-![Poster] (img/photo_metaframe_mounter_holder.jpg)
+![Poster](img/photo_metaframe_mounter_holder.jpg)
 
-![Poster] (img/photo_metaframe_holder_3extdisks.jpg)
+![Poster](img/photo_metaframe_holder_3extdisks.jpg)
 
-![Poster] (img/photo_metaframe_connected_parts.jpg)
+![Poster](img/photo_metaframe_connected_parts.jpg)
 
 
