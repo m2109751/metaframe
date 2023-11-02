@@ -14,6 +14,16 @@
 
 ![Poster](img/photo_metaframe_connected_parts.jpg)
 
+# Photos of WD ElementsDesktop disks:
+
+![Poster](img/photo_metaframe_WDED_A.jpg)
+
+![Poster](img/photo_metaframe_WDED_B.jpg)
+
+![Poster](img/photo_metaframe_WDED_C.jpg)
+
+![Poster](img/photo_metaframe_WDED_D.jpg)
+
 # Photos of WD MyBook disks:
 
 ![Poster](img/photo_metaframe_WDMB_A.jpg)
