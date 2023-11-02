@@ -44,6 +44,18 @@
 
 ![Poster](img/photo_metaframe_SGEO_D.jpg)
 
+# Photos of SG ExpansionNew disks:
+
+![Poster](img/photo_metaframe_SGEN_A.jpg)
+
+![Poster](img/photo_metaframe_SGEN_B.jpg)
+
+![Poster](img/photo_metaframe_SGEN_C.jpg)
+
+![Poster](img/photo_metaframe_SGEN_D.jpg)
+
+
+
 
 
 
