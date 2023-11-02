@@ -34,5 +34,16 @@
 
 ![Poster](img/photo_metaframe_WDMB_D.jpg)
 
+# Photos of SG ExpansionOld disks:
+
+![Poster](img/photo_metaframe_SGEO_A.jpg)
+
+![Poster](img/photo_metaframe_SGEO_B.jpg)
+
+![Poster](img/photo_metaframe_SGEO_C.jpg)
+
+![Poster](img/photo_metaframe_SGEO_D.jpg)
+
+
 
 
