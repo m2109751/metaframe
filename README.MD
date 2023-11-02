@@ -54,6 +54,16 @@
 
 ![Poster](img/photo_metaframe_SGEN_D.jpg)
 
+# Photos of SG BackupHub disks:
+
+![Poster](img/photo_metaframe_SGBH_A.jpg)
+
+![Poster](img/photo_metaframe_SGBH_B.jpg)
+
+![Poster](img/photo_metaframe_SGBH_C.jpg)
+
+![Poster](img/photo_metaframe_SGBH_D.jpg)
+
 
 
 
