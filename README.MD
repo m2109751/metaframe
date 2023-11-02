@@ -14,4 +14,15 @@
 
 ![Poster](img/photo_metaframe_connected_parts.jpg)
 
+# Photos of WD MyBook disks:
+
+![Poster](img/photo_metaframe_WDMB_A.jpg)
+
+![Poster](img/photo_metaframe_WDMB_B.jpg)
+
+![Poster](img/photo_metaframe_WDMB_C.jpg)
+
+![Poster](img/photo_metaframe_WDMB_D.jpg)
+
+
 
