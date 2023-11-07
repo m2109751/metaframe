@@ -64,6 +64,14 @@
 
 ![Poster](img/photo_metaframe_SGBH_D.jpg)
 
+# Thermal Video of Western Digital disks:
+
+![WD GIF](img/thermalVideo_western.gif)
+
+# Thermal Video of Seagate Technology disks:
+
+![ST GIT](img/thermalVideo_seagate.gif)
+
 
 
 
